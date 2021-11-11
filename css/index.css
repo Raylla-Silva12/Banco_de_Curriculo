@@ -1,0 +1,16 @@
+*{
+	margin:0;
+}
+div{
+	width: 50vw;
+	height: 100vh;
+	float: left;
+}
+div:hover{
+	background-color: navy;
+	color:white;
+}
+form{
+	width: 40vw;
+	margin-left: 5vw;
+}
